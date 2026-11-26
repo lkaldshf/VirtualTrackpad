@@ -1,0 +1,20 @@
+# Gradle
+.gradle/
+build/
+.kotlin/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# 本机 SDK 路径，每个人都不一样，不能提交
+local.properties
+
+# IDE
+.idea/
+*.iml
+*.hprof
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+*.log

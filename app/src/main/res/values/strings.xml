@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">虚拟触摸板</string>
+    <string name="tile_label">虚拟触控板</string>
+    <string name="a11y_label">虚拟触摸板 · 手势注入</string>
+    <string name="a11y_description">用于在光标位置模拟点击、长按与滑动。本服务不读取屏幕内容，只发送手势。</string>
+</resources>
